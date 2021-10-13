@@ -1,10 +1,10 @@
- DO               SOL
+ DO M               SOLM
 mi vida fuímos a volar
   LAm             MIm
 con un solo paracaídas
- FA              DO
+ FA M              DO M
 uno sólo va aquedar
-  FA              SOL (o Riff)
+  FA M              SOL (o Riff)
 volando a la deriva
 
 vivir así no es vivír
